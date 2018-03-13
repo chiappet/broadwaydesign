@@ -28,3 +28,11 @@ h3 {
   font-size: 23px;
   font-weight: bold;
 }
+
+.ny {
+  font-size: 23px;
+  color: white;
+  font-weight: bold;
+  background-image: url('../../resources/images/the-flatiron-building.png');
+
+}
