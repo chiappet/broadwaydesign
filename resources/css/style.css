@@ -5,7 +5,7 @@ body {
 }
 
 .header {
-  background-image: url("../resources/images/the-flatiron-building.png");
+  background-image: url('../../resources/images/the-flatiron-building.png');
 }
 
 h1 {
@@ -15,4 +15,5 @@ h1 {
 
 .menu {
   font-size: 18px;
+  color: white;
 }
